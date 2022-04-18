@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import './Register.css'
 import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import auth from '../../firebase.init';
+import Loading from '../Loading/Loading';
 
 function Register() {
 
@@ -13,12 +14,15 @@ function Register() {
         user,
         loading,
         error,
-      ] = useCreateUserWithEmailAndPassword(auth);
+      ] = useCreateUserWithEmailAndPassword(auth, {sendEmailVerification:true});
     const navigateLogin = event =>{
         navigate('/login');
     }
     if(user){
         navigate("/home")
+    }
+    if(loading){
+      return <Loading></Loading>
     }
     const handleRegister = event =>{
         event.preventDefault();

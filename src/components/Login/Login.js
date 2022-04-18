@@ -4,6 +4,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { useSignInWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import auth from '../../firebase.init';
 import GoogleLogin from '../GoogleLogin/GoogleLogin';
+import Loading from '../Loading/Loading';
 
 function Login() {
   const emailRef = useRef('')
@@ -20,6 +21,9 @@ function Login() {
   ] = useSignInWithEmailAndPassword(auth);
   if(user){
     navigate(from, {replace:true});
+  }
+  if(loading){
+    return <Loading></Loading>
   }
 
   const handleSubmit = event =>{
