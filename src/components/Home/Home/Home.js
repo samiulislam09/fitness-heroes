@@ -1,5 +1,6 @@
 import React from 'react'
 import Banner from '../Carousel/Banner'
+import ContactUs from '../ContactUs/ContactUs'
 import Services from '../Services/Services'
 
 function Home() {
@@ -7,6 +8,7 @@ function Home() {
     <div>
       <Banner></Banner>
       <Services />
+      <ContactUs></ContactUs>
     </div>
   )
 }

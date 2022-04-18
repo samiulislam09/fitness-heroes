@@ -2,35 +2,35 @@
     {
         "id": 1,
         "name": "strength trainiing",
-        "description": "essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "description": " Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
         "price": 4000,
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/man-lifting-dumbells-at-cross-training-gym-royalty-free-image-1625601682.jpg?crop=0.612xw:0.918xh;0.252xw,0.0816xh&resize=640:*"
     },
     {
         "id": 2,
         "name": "weight bearing",
-        "description": "essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
         "price": 3500,
         "img": "https://hips.hearstapps.com/assets.runnersworld.co.uk/i/14720/39773.jpg?resize=480:*"
     },
     {
         "id": 3,
         "name": "calisthenics",
-        "description": "essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "description": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
         "price": 10000,
         "img": "https://calisthenicsfamily.b-cdn.net/wp-content/uploads/2020/10/Yannick-Michael-Calisthenics-Family.jpg"
     },
     {
         "id":4,
         "name": "coordination and agility training",
-        "description": "essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "description": "aking it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
         "price": 7000,
         "img": "https://www.mensjournal.com/wp-content/uploads/mf/agility-hurdle-shuffle.jpg?w=1200&h=960&crop=1&quality=86&strip=all"
     },
     {
         "id": 5,
         "name": "flexibility and mobility training",
-        "description": "essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Why do we use it?It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "description": " it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
         "price": 5000,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVAX_kAUCAmLrk6DEQDQCeo1syaxHMgYGzQ&usqp=CAU"
     }

@@ -1,0 +1,14 @@
+.register-form input{
+    display: block;
+    width: 100%;
+    font-family: 18px;
+    padding: 8px 0;
+    padding-left: 10px;
+
+}
+
+.register-form{
+    margin: 0 auto;
+    width: 50%;
+    padding: 20px 0;
+}

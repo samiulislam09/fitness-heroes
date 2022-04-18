@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div className='bg-primary text-white py-3'>&copy; {new Date().getFullYear()} Copyright: footer </div>
   )
 }
 
