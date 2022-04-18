@@ -54,7 +54,7 @@ function Login() {
         </Form.Group>
 
         <Button variant="primary" type="submit">
-          Submit
+          Login
         </Button>
       </Form>
       <p>New to Fitness Heroes <Link to='/register' className='text-primary pe-auto text-decoration-none' onClick={navigateRegiater}>Register</Link></p>
