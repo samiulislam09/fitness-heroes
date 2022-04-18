@@ -7,7 +7,7 @@ import Header from './components/Header/Header'
 import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home/Home';
 import ErrorPage from './components/ErrorPage/ErrorPage';
-import Register from './Register/Register';
+import Register from './components/Register/Register';
 
 function App() {
   return (
