@@ -4,3 +4,8 @@
     margin: 0 auto;
     filter: brightness(50%);
 }
+@media all and (max-width:992px){
+    .carousel-image{
+        height: 400px;
+    }
+}

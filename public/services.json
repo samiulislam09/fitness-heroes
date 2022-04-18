@@ -1,36 +1,36 @@
 [
     {
         "id": 1,
-        "name": "strength trainiing",
-        "description": " Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "name": "Strength Training",
+        "description": "Want to reduce body fat, increase lean muscle mass and burn calories more efficiently? Strength training to the rescue! Strength training is a key component of overall health and fitness for everyone." ,
         "price": 4000,
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/man-lifting-dumbells-at-cross-training-gym-royalty-free-image-1625601682.jpg?crop=0.612xw:0.918xh;0.252xw,0.0816xh&resize=640:*"
     },
     {
         "id": 2,
-        "name": "weight bearing",
-        "description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "name": "Weight Bearing",
+        "description": "weight-bearing is the amount of weight a patient puts on an injured body part. Generally, it refers to a leg, ankle or foot that has been fractured or upon which surgery has been performed, but the term can also be used to refer to resting on an arm or a wrist." ,
         "price": 3500,
         "img": "https://hips.hearstapps.com/assets.runnersworld.co.uk/i/14720/39773.jpg?resize=480:*"
     },
     {
         "id": 3,
-        "name": "calisthenics",
-        "description": "making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "name": "Calisthenics",
+        "description": "Calisthenics are exercises that don’t rely on anything but a person’s own body weight. These exercises are performed with differing levels of intensity and rhythm. Sometimes these exercises are done with light handheld tools like rings and wands." ,
         "price": 10000,
         "img": "https://calisthenicsfamily.b-cdn.net/wp-content/uploads/2020/10/Yannick-Michael-Calisthenics-Family.jpg"
     },
     {
         "id":4,
-        "name": "coordination and agility training",
-        "description": "aking it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "name": "Coordination and agility training",
+        "description": "Agility is the ability to change the direction of the body efficiently and effectively and to achieve this, you require a combination of Balance" ,
         "price": 7000,
         "img": "https://www.mensjournal.com/wp-content/uploads/mf/agility-hurdle-shuffle.jpg?w=1200&h=960&crop=1&quality=86&strip=all"
     },
     {
         "id": 5,
-        "name": "flexibility and mobility training",
-        "description": " it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy." ,
+        "name": "Flexibility and mobility training",
+        "description": "If you find yourself sitting a lot at your desk or lounging on the couch bingeing your favorite Netflix show your posture is probably suffering.Maybe you notice that your hips are tight, your shoulders don’t move like they used to, and your low back is a bit stiff." ,
         "price": 5000,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVAX_kAUCAmLrk6DEQDQCeo1syaxHMgYGzQ&usqp=CAU"
     }

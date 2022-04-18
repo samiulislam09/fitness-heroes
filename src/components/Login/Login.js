@@ -3,6 +3,7 @@ import { Button, Form } from 'react-bootstrap'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { useSignInWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import auth from '../../firebase.init';
+import GoogleLogin from '../GoogleLogin/GoogleLogin';
 
 function Login() {
   const emailRef = useRef('')
@@ -36,6 +37,7 @@ function Login() {
   return (
     <div className='container w-50 mx-auto'>
       <h2>Login</h2>
+      
       <Form className='text-start' onSubmit={handleSubmit}>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>
@@ -52,6 +54,7 @@ function Login() {
         </Button>
       </Form>
       <p>New to Fitness Heroes <Link to='/register' className='text-primary pe-auto text-decoration-none' onClick={navigateRegiater}>Register</Link></p>
+      <GoogleLogin></GoogleLogin>
     </div>
     
   )
