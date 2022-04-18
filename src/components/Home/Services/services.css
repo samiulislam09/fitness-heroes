@@ -4,3 +4,10 @@
     grid-gap: 30px;
     padding: 150px;
 }
+
+@media all and (max-width:992px){
+    .services-container{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 90px;
+    }
+}

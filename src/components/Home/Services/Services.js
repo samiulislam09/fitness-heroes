@@ -10,10 +10,13 @@ function Services() {
     .then(data => setServices(data))
   },[])
   return (
-    <div id='services' className='services-container'>
+    <div>
+      <h2 className='text-center mt-3'>Our Services</h2>
+      <div id='services' className='services-container'>
       {
         services.map(service => <Service key={service.id} service={service}></Service>)
       }
+    </div>
     </div>
   )
 }
